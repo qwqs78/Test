@@ -1,2 +1,3 @@
 # CordingTest
-Practice Coding Page
+
+print("hello world")
